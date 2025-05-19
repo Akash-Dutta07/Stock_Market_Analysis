@@ -5,8 +5,8 @@ matplotlib
 yfinance
 pandas_datareader
 scikit-learn
-keras
-tensorflow
+keras==2.13.1
+tensorflow==2.13.0
 plotly           
 seaborn          
 requests         
