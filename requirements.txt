@@ -6,7 +6,7 @@ yfinance
 pandas_datareader
 scikit-learn
 keras
-tensorflow-cpu==2.13.0
+tensorflow
 plotly           
 seaborn          
 requests         
