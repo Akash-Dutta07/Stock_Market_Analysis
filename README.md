@@ -11,6 +11,10 @@ Designed for finance students. This project combines machine learning with capit
 
 ---
 
+Use the app : https://finsight-forecast.streamlit.app/
+
+------
+
 ## 📊 Features
 
 ### ✅ Overview Page
